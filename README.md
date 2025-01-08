@@ -41,15 +41,4 @@ The tool is paid. To get the tool, please contact me on Telegram [@cn_zd](https:
 
 ---
 
-## **📦 Installation**
-Steps to install and run the tool...
 
----
-
-## **🤝 Contribution**
-Instructions on how to contribute to the project...
-
----
-
-## **📜 License**
-Information about the usage license...
