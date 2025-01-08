@@ -40,3 +40,8 @@ The tool is paid. To get the tool, please contact me on Telegram [@cn_zd](https:
 - An Android device running Android 13 or lower.
 - Internet connection.
 - Telegram account to interact with the bot.
+
+---
+
+## **⚠️ Disclaimer**
+[!] Legal disclaimer: Usage of this application for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. I assume no liability and am not responsible for any misuse or damage caused.
