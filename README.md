@@ -1,7 +1,7 @@
 # **SMStrojan**
 
 ## **📜 Description**
-**SMStrojan** is a powerful Android RAT (Remote Access Tool) focused on controlling apps and managing SMS messages through commands received from a bot. It aims to provide multiple functionalities for Android apps in an easy and secure way. The control interface is managed entirely through a Telegram bot, eliminating the need to open ports or host any files.
+**SMStrojan** is a powerful Android RAT (Remote Access Tool) focused on controlling and managing SMS messages through commands received from a bot. It aims to provide multiple functionalities for Android apps in an easy and secure way. The control interface is managed entirely through a Telegram bot, eliminating the need to open ports or host any files.
 
 ![SMStrojan](sms-256.webp)
 
