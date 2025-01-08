@@ -1,7 +1,7 @@
 # **SMStrojan**
 
 ## **📜 Description**
-**SMStrojan** is a powerful tool for controlling apps and managing SMS messages through commands received from a bot. It aims to provide multiple functionalities for Android apps in an easy and secure way.
+**SMStrojan** is a powerful tool for controlling apps and managing SMS messages through commands received from a bot. It aims to provide multiple functionalities for Android apps in an easy and secure way. The control interface is managed entirely through a Telegram bot, eliminating the need to open ports or host any files.
 
 ---
 
@@ -37,6 +37,7 @@ The tool is paid. To get the tool, please contact me on Telegram [@cn_zd](https:
 ## **📋 Requirements**
 - An Android device running Android 13 or lower.
 - Internet connection.
+- Telegram account to interact with the bot.
 
 ---
 
