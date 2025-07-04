@@ -34,7 +34,29 @@
 ## **🔧 How to Obtain the Tool**
 The tool is paid. To get the tool, please contact me on Telegram [contact bot](https://t.me/Contact255Bot).
 
----
+## 📞 Support & Contact
+
+For inquiries, custom development, or support:
+
+- 💬 Telegram: [@contact](https://t.me/Contact255Bot)
+
+## 🎥 Demo & Documentation
+
+- 📺 [Watch Demo Video](https://t.me/SMS_BOTnetTool/2)
+- 
+📺 Join Our Telegram Channel!
+
+Stay updated with:
+• Latest Tool Updates
+• Detailed Tutorials
+• Technical Tips & Solutions
+• Exclusive Offers
+
+Subscribe now to never miss an update! 🔔
+
+Join our Telegram channel for instant updates:
+🔗 https://t.me/SMS_BOTnetTool
+
 
 ## **📋 Requirements**
 - An Android device running Android 13 or lower.
